@@ -40,19 +40,29 @@
     </nav>
     <main id="main-doc">
       
-        <form method="post" action="index.php">
-          <div class="form-group">
-            <input type="text" name="username" placeholder="Kullanıcı Adı">
-            </div>
-          
-          <div class="form-group">
-          <input type="password" name="password" placeholder="Şifre">
-          </div>
-     
-          <div class="form-group">
-          <input type="submit" value="Giriş Yap">
-          </div>
-          </form>
+      <form action="/giris/index.php" method="POST">
+
+        <table>
+        <tr>
+        <td>Kullanici Adi</td>
+        <td>:</td>
+        <td><input type="email" name="user"></td>
+        </tr>
+        
+        <tr>
+        <td>Sifre</td>
+        <td>:</td>
+        <td><input type="password" name="pass"></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td><input type="submit" value="Giris"></td>
+        </tr>
+        
+        </table>
+        
+        </form>
        
      
     </main>
