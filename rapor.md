@@ -9,45 +9,33 @@
 
 ### Hakkımda Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/hakkimda.PNG) 
+![](https://github.com/oguzhankirikkk/webproje/blob/main/images/Hakk%C4%B1mda.PNG) 
 
 Projemin anasayfasıdır. Kendimden ve sevdiklerimden bahsettim. İlgili sitelerin linklerini ekledim.
 
 ### Özgeçmiş Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/ozgecmis.PNG)
+![](https://github.com/oguzhankirikkk/webproje/blob/main/images/Ozgecmis.PNG)
 
 Özgeçmişime yer verdiğim sayfadır. 
 
 ### Şehrim Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/sehrim.PNG)
+![](https://github.com/oguzhankirikkk/webproje/blob/main/images/Sehrim.PNG)
 
 Şehrimi anlattığım sayfadır. Sakarya hakkında genel bilgilere yer verdim. Gezilip görülebilecek yerlerinden bahsettim.
 
 ### Takımımız Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/takimimiz.PNG)
+![](https://github.com/oguzhankirikkk/webproje/blob/main/images/tak%C4%B1m%C4%B1m%C4%B1z.PNG)
 
 Sakaryaspor'u anlattığım sayfadır. Takımın kuruluşundan günümüze kadar olan macerasına yer verdim.
 
-### Hava Durumu Sayfası
+### İlgi Alanım Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/havadurumu.PNG)
+![](https://github.com/oguzhankirikkk/webproje/blob/main/images/ilgialanim.PNG)
 
-OpenWeather API Servisini kullanarak Sakarya'nın haftalık hava raporuna yer verdim.
+TIMDB API Servisini kullanarak IMDB film listesine yer verdim.
 
-### Giriş Sayfası
 
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/giris.PNG)
-
-Siteye kayıtlı kişinin giriş yapabileceği sayfadır. 
-
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/giris2.PNG)
-
-### İletişim Sayfası
-
-![](https://github.com/yunusmrkara/webteknolojileri/blob/master/images/iletisim.PNGG)
-
-Kullanıcıdan bilgileri aldığım sayfadır.
 
